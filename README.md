@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para apresentar um pouco da minha trajetória na �
 ## 🌐 Acesse meu portfólio
 
 <p align="center">
-  <a href="COLOQUE-AQUI-O-LINK-DO-SEU-GITHUB-PAGES">
+  <a href="https://tarcisioguedes.github.io/Meu-Portifolio/">
     <img src="https://img.shields.io/badge/Acessar%20Portfólio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar Portfólio">
   </a>
 </p>
